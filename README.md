@@ -1,2 +1,2 @@
-# Portif-lio---Estudo-
+# Portifolio---Estudo-
 Site criado apenas para estudar e praticar!
